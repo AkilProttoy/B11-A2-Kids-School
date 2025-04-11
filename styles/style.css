@@ -1,0 +1,96 @@
+/* // <weight>: Use a value from 300 to 700
+// <uniquifier>: Use a unique and descriptive class name
+ */
+.quicksand-normal{
+  font-family: "Quicksand", sans-serif;
+  font-optical-sizing:auto ;
+  /*font-weight: 400;*/
+  font-style:normal ;
+}
+
+/*buttons*/
+.btn-primary{
+    padding: 10px 10px;
+    max-width: 197px;
+    border: none;
+    border-radius: 12px;
+    background-color: #FEA301;
+    text-align: center;
+
+}
+nav{
+    margin: 20px auto;
+    max-width: 1440px;
+}
+.navbar{
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    max-width: 1160px;
+}
+
+.nav-img{
+    display: flex;
+}
+.nav-links ul{
+
+    max-width: 387px;
+    list-style: none;
+    display: flex;
+    padding: 0;
+
+}
+.hero-section{
+    margin: auto;
+    max-width: 1158px;
+    display: flex;
+    align-items: center;
+    padding: 0px 0px;
+    gap: 50px;
+}
+.hero-section img{
+    max-width: 468 px;
+}
+
+                      /* Curriculam Section */
+#Curriculam-section{
+    max-width: 1440px;
+    margin: 0 auto; 
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    flex-direction: column;
+    padding: 60px 0;
+    gap: 80px;
+
+}
+.Curri-heading{
+    padding: 0px 0px;
+
+}
+.Curri-type{
+    display: flex;
+    justify-content:center ;
+    text-align: center;    /*All texts are aligned in the center*/
+    gap: 28px;
+    max-width: 1160px;
+
+}
+
+                    /* Our Stories section */
+#Our-Stories{
+    max-width: 1440px;
+    margin-top: 0px;
+    padding: 60px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+ .Our-Stories-div{
+    padding: 60px 0px;
+    
+    display: flex;
+    justify-content: center;
+ }                   
